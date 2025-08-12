@@ -204,6 +204,7 @@ Legacy standalone cleaners in `csv_excel_cleaner/` are deprecated (retained only
 
 ## License
 
-MIT (add LICENSE file if distributing externally).
-#   d a t a _ p r o c e s s i n g _ p r o f i l i n g  
+#   d a t a _ p r o c e s s i n g _ p r o f i l i n g 
  
+ 
+MIT (add LICENSE file if distributing externally).
