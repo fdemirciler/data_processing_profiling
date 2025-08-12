@@ -192,19 +192,3 @@ Run tests:
 pytest -q
 ```
 
-## Deprecation Notice
-
-Legacy standalone cleaners in `csv_excel_cleaner/` are deprecated (retained only for historical reference). All new enhancements should target the unified pipeline. Legacy tests (if any) are ignored; active tests live under `data_processing/tests/`.
-
-## Roadmap / Next Steps
-
-- Optional: add empty/all-null dataset edge tests
-- Optional: extend date format detection caching
-- Optional: configurable null token list via CLI flag
-
-## License
-
-# data_processing_profiling
-
-
-MIT (add LICENSE file if distributing externally).
